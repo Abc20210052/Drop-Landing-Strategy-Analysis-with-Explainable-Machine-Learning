@@ -10,7 +10,7 @@ Drop landing is a complex neuromuscular control process affected by both landing
 
 The analysis includes:
 
-- Classification models for distinguishing landing conditions（Cross-validation and subject-based train-test splitting）.
+- Classification models for distinguishing landing conditions（Optimal parameter selection）.
 - Time-series Cohen's d effect size analysis for biomechanical group differences.
 - SHAP-based feature importance and feature interaction analysis.
 
